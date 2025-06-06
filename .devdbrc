@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "/home/anakon/code/laravel-shop/database/database.sqlite"
+  }
+]
