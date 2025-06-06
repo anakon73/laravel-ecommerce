@@ -35,7 +35,7 @@
 1. Клонуй репозиторій
 
 ```bash
-git clone git@github.com:anakon73/laravel-ecommerce.git
+git clone https://github.com/anakon73/laravel-ecommerce.git
 cd laravel-ecommerce
 ```
 
