@@ -68,14 +68,13 @@ php artisan storage:link
 6. Запусти локальний сервер
 
 ```
-npm run dev
 php artisan serve
 ```
 
 7. Увійди в адмінку:
 
 ```pgsql
-http://127.0.0.1:8000/admin/login
+http://127.0.0.1:8000/login
 
 Email: admin@example.com
 Password: password
