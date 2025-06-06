@@ -15,6 +15,9 @@
                     <x-nav-link :href="route('cart')" :active="request()->routeIs('cart')" wire:navigate>
                         Cart
                     </x-nav-link>
+                    <x-nav-link :href="route('search')" :active="request()->routeIs('search')" wire:navigate>
+                        Search
+                    </x-nav-link>
                 </div>
             </div>
 
